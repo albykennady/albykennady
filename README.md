@@ -4,6 +4,7 @@
 **albykennady/albykennady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ```md
+-->
 Hey there! 👋
 
 I'm Alby, a software engineer from India 🇮🇳.
@@ -26,4 +27,3 @@ Fun Facts
 • Fitness & self-improvement enthusiast  
 • I have a clothing brand for which I design clothes!
 
--->
