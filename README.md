@@ -1,12 +1,10 @@
-## Hi there 👋 I'm Alby
+## Hi there 👋 
 
 <!--
 **albykennady/albykennady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ```md
 -->
-Hey there! 👋
-
 I'm Alby, a software engineer from India 🇮🇳.
 
 I build scalable apps, solve production issues, and constantly explore new technologies.
