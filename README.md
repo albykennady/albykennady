@@ -7,21 +7,42 @@
 -->
 I'm Alby, a software engineer from India 🇮🇳.
 
-I build scalable apps, solve production issues, and constantly explore new technologies.
+I build scalable applications, solve production issues, and constantly explore new technologies across frontend, backend, mobile, and enterprise platforms.
 
 If something interests me, chances are I’ll deep dive into it and try building it.
 
-My main tech stack is ReactJS, Spring Boot, SwiftUI, and Java. I also work with REST APIs and AI-powered developer tools.
+════════════════════════════════════════════════════════════
 
-Right now, I’m learning Spring Boot in depth and building towards a full-scale B2C e-commerce platform with payments, integrations, and modern backend architecture.
+🚀 Tech Stack
 
-I enjoy working on products that combine clean UI, strong backend systems, and real business impact.
+Frontend  : ReactJS  
+Backend   : Spring Boot • Java  
+Mobile    : SwiftUI • iOS Development  
+Tools     : Figma • REST APIs • Git • Sourcetree • AI Tools
 
-Fun Facts
+════════════════════════════════════════════════════════════
+
+🌱 Currently Learning
+
+Deep-diving into Spring Boot and backend engineering while working towards building a scalable B2C e-commerce platform with payments, integrations, authentication, and modern architecture.
+
+Also exploring AI-powered workflows, scalable systems, and clean software design.
+
+════════════════════════════════════════════════════════════
+
+⚡ Interests
+
+AI • Graphic Design • Creative Tech • Aviation • Fitness
+
+════════════════════════════════════════════════════════════
+
+Fun Facts:
 
 • Aviation enthusiast ✈️  
 • Guitarist 🎸  
-• Interested in AI, system design, and creative tech  
-• Fitness & self-improvement enthusiast  
-• I have a clothing brand for which I design clothes!
+• Love building things from scratch  
+• Interested in scalable enterprise systems  
+• I have a clothing brand for which I design clothes
+
+════════════════════════════════════════════════════════════
 
