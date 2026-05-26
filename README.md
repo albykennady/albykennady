@@ -13,15 +13,6 @@ If something interests me, chances are I’ll deep dive into it and try building
 
 ════════════════════════════════════════════════════════════
 
-🚀 Tech Stack
-
-Frontend  : ReactJS  
-Backend   : Spring Boot • Java  
-Mobile    : SwiftUI • iOS Development  
-Tools     : Figma • REST APIs • Git • Sourcetree • AI Tools
-
-════════════════════════════════════════════════════════════
-
 🌱 Currently Learning
 
 Deep-diving into Spring Boot and backend engineering while working towards building a scalable B2C e-commerce platform with payments, integrations, authentication, and modern architecture.
@@ -29,17 +20,6 @@ Deep-diving into Spring Boot and backend engineering while working towards build
 Also exploring AI-powered workflows, scalable systems, and clean software design.
 
 ════════════════════════════════════════════════════════════
-
-Fun Facts:
-
-• Aviation enthusiast ✈️  
-• Guitarist 🎸  
-• Love building things from scratch  
-• Interested in scalable enterprise systems  
-• I have a clothing brand for which I design clothes
-
-════════════════════════════════════════════════════════════
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/albykennady/) 
