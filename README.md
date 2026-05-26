@@ -1,13 +1,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Spring+Boot+%7C+React+%7C+iOS;Creative+Frontend+Engineer;Building+Modern+Digital+Experiences" />
 </p>
-## Hi there 👋 
 
 <!--
 **albykennady/albykennady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ```md
 -->
+## Hi there 👋 
 I'm Alby, a software engineer from India 🇮🇳.
 
 I build scalable applications, solve production issues, and constantly explore new technologies across frontend, backend, mobile, and enterprise platforms.
