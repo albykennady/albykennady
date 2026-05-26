@@ -21,6 +21,7 @@ Also exploring AI-powered workflows, scalable systems, and clean software design
 
 ════════════════════════════════════════════════════════════
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/albykennady/) 
 
@@ -36,9 +37,6 @@ Also exploring AI-powered workflows, scalable systems, and clean software design
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://komarev.com/ghpvc/?username=albykennady&icon=8&color=4)](https://visitcount.itsvg.in)
 
 
 
